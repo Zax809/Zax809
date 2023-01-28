@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Zax</h1>
 <h3 align="center">I'm an enthusiastic developer from Denmark, who loves to code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zax809" alt="zax809" /></a> </p>
-
 - 🔭 I’m currently working on **Personal Webpage**
 
 - 🌱 I’m currently learning **Java, C# and Nuxt.js**
