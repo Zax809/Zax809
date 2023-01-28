@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Webpage**
 
-- 🌱 I’m currently learning **Java, C# and Nuxt.js**
+- 🌱 I’m currently learning **Java, C#, Vue.js and Nuxt.js**
 
 - 👨‍💻 All of my projects are available at [github.com/Zax809/](github.com/Zax809/)
 
