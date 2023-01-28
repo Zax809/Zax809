@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, C# and Nuxt.js**
 
-- 👨‍💻 All of my projects are available at [github.com/Zax809/](github.com/Zax809/)
+- 👨‍💻 All of my projects are available at [github.com/Zax80](https://github.com/Zax809)
 
 - 💬 Ask me about **Java or Skript**
 
