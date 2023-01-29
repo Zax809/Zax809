@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Webpage**
 
-- 🌱 I’m currently learning **Java, C#, Python, JS and TS**
+- 🌱 I’m currently learning **Java, C#, C++ and C**
 
 - 👨‍💻 All of my projects are available at [github.com/Zax809/](github.com/Zax809/)
 
