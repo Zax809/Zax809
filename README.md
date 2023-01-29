@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Zax</h1>
 <h3 align="center">I'm an enthusiastic developer from Denmark, who loves to code</h3>
 
-- 🔭 I’m currently working on **Personal Webpage**
+- 🔭 I’m currently working on **Various Projects**
 
 - 🌱 I’m currently learning **Java, C#, C++ and C**
 
