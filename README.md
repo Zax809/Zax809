@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zax</h1>
-<h3 align="center">I'm a full stack developer</h3>
+<h3 align="center">I'm a developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zax809&label=Profile%20views&color=0e75b6&style=flat" alt="zax809" /> </p>
 
-- 🌱 I’m currently learning **PHP, Node.js & Svelte.js**
+- 🌱 I’m currently learning **Node.js & Svelte.js**
 
 - 💬 Ask me about **HTML, CSS, JavaScript & Java**
 
